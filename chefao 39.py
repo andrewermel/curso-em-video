@@ -12,6 +12,7 @@ idade= atual - nasc
 print('quem nasceu me {} tem {} anos em {}'.format(nasc, idade, atual))
 saldo=18- idade
 saldo2=idade-18
+
 if idade==18:
     print('voce tem que se alistar imediatamente')
 elif idade <18:
